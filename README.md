@@ -1,2 +1,0 @@
-# CJudeB
-Code-Share
